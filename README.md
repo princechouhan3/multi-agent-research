@@ -23,3 +23,6 @@ This project uses multiple AI agents to:
 - Python
 - Streamlit
 - Google Gemini API
+![TaskComplete](https://github.com/user-attachments/assets/efbe33a9-426e-46e2-8ea9-e5aad24e4ee4)
+![TaskSS2](https://github.com/user-attachments/assets/c26215f0-c611-467f-ad1d-a99c39b80525)
+
